@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saqib-github
 - 👀 I’m interested in developing interactive applications.
 - 🌱 I’m currently working on VueJs, ReactJs and Nodejs.
-- 💞️ I’m looking to collaborate on some complex projects. If you need any help then please you can contact me.
+- 💞️ I’m looking to collaborate/contribute on complex projects. If you need any help then please you can contact me.
 - 📫 How to reach me at rsaqib2034@gmail.com
 
 <!---
