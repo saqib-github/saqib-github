@@ -35,6 +35,10 @@ Personal Website: https://www.saqibdev.com/
 <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
 <br>
 <br>
+<br>
+<br>
+## Github Statistics
+<img src="https://github-readme-stats.vercel.app/api?username=saqib-github&theme=dark">
 
 
 <!-- ## Blog posts -->
