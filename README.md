@@ -6,9 +6,35 @@
 
 ### Hello World 👋
 
-I am a fullstack software engineer working with ReactJS, Redux, NodeJS, VueJS, Vuex, ExpressJS, MongoDB and AWS Serverless Technologies.
+# About Me
 
-I am also a technical writer. Love to share what I learn.
+I'm Saqib, a passionate Full Stack Web Developer with a focus on creating user-friendly interfaces and scalable applications. I have a Bachelor of Science in Software Engineering and over 4 years of professional experience in the field.
+
+# Skills
+
+### Frontend: HTML, CSS, Bootstrap, JavaScript, TypeScript, ReactJs
+### Backend: NodeJs, ExpressJs, NestJs
+### Databases: MongoDB, PostgreSQL, CouchDB
+### Frameworks: MERN Stack, MEVN Stack, Microservices Architecture
+### Other Technologies: AWS, DigitalOcean, Git, GraphQL, REST API, Websockets
+
+# Projects
+
+## AutomateBlast: Social Media Management Platform
+Developed using Node.js and React
+Features include posting, AI-assisted content creation, analytics, and more
+
+## Elite Learner: Coaching Platform
+Built with MERN Stack
+Allows coaches to apply for coaching positions and users to find coaches
+
+# Contact Me
+
+LinkedIn: Saqib [https://www.linkedin.com/in/remotepuzzle/]
+Email: rsaqib2034@gmail.com
+Phone: +92 3410491218
+
+Let's connect and build something amazing together!
 
 Personal Website: https://www.saqibdev.com/
 
