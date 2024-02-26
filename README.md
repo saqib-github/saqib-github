@@ -4,31 +4,31 @@
 - 💞️ I’m looking to collaborate/contribute on complex projects. If you need any help then please you can contact me.
 - 📫 How to reach me at rsaqib2034@gmail.com -->
 
-### Hello World 👋
+# Hello World 👋
 
-# About Me
+## About Me
 
 I'm Saqib, a passionate Full Stack Web Developer with a focus on creating user-friendly interfaces and scalable applications. I have a Bachelor of Science in Software Engineering and over 4 years of professional experience in the field.
 
-# Skills
+## Skills
 
-### Frontend: HTML, CSS, Bootstrap, JavaScript, TypeScript, ReactJs
-### Backend: NodeJs, ExpressJs, NestJs
-### Databases: MongoDB, PostgreSQL, CouchDB
-### Frameworks: MERN Stack, MEVN Stack, Microservices Architecture
-### Other Technologies: AWS, DigitalOcean, Git, GraphQL, REST API, Websockets
+#### Frontend: HTML, CSS, Bootstrap, JavaScript, TypeScript, ReactJs
+#### Backend: NodeJs, ExpressJs, NestJs
+#### Databases: MongoDB, PostgreSQL, CouchDB
+#### Frameworks: MERN Stack, MEVN Stack, Microservices Architecture
+#### Other Technologies: AWS, DigitalOcean, Git, GraphQL, REST API, Websockets
 
-# Projects
+## Projects
 
-## AutomateBlast: Social Media Management Platform
+### AutomateBlast: Social Media Management Platform
 Developed using Node.js and React
 Features include posting, AI-assisted content creation, analytics, and more
 
-## Elite Learner: Coaching Platform
+### Elite Learner: Coaching Platform
 Built with MERN Stack
 Allows coaches to apply for coaching positions and users to find coaches
 
-# Contact Me
+## Contact Me
 
 LinkedIn: Saqib [https://www.linkedin.com/in/remotepuzzle/]
 Email: rsaqib2034@gmail.com
