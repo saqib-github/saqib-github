@@ -12,11 +12,11 @@ I'm Saqib, a passionate Full Stack Web Developer with a focus on creating user-f
 
 ## Skills
 
-#### Frontend: HTML, CSS, Bootstrap, JavaScript, TypeScript, ReactJs
+#### Frontend: HTML, CSS, Scss, Bootstrap, JavaScript, TypeScript, ReactJs, Vue, Angular, Next.js, Materils UI, etc
 #### Backend: NodeJs, ExpressJs, NestJs
-#### Databases: MongoDB, PostgreSQL, CouchDB
+#### Databases: MongoDB, PostgreSQL, MySql, CouchDB
 #### Frameworks: MERN Stack, MEVN Stack, Microservices Architecture
-#### Other Technologies: AWS, DigitalOcean, Git, GraphQL, REST API, Websockets
+#### Other Technologies: AWS, DigitalOcean, Git, Jira, Trello, Bitbucket, Monday, GraphQL, REST API, Websockets
 
 ## Projects
 
