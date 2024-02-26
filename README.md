@@ -53,6 +53,7 @@ Personal Website: https://www.saqibdev.com/
 <br>
 
 ## Expertise
+<div style="display: flex; flex-wrap: wrap; gap: 5px;">
 <img align="left" alt="HTML" src="https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white&style=for-the-badge" />
 <img align="left" alt="CSS" src="https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white&style=for-the-badge" />
 <img align="left" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge" />
@@ -107,6 +108,8 @@ Personal Website: https://www.saqibdev.com/
 <img align="left" alt="Point-E" src="https://img.shields.io/badge/Point--E-000000?logo=point-e&logoColor=white&style=for-the-badge" />
 <img align="left" alt="Jukebox" src="https://img.shields.io/badge/Jukebox-000000?logo=jukebox&logoColor=white&style=for-the-badge" />
 <img align="left" alt="CLIP" src="https://img.shields.io/badge/CLIP-000000?logo=clip&logoColor=white&style=for-the-badge" />
+
+</div>
 
 <br>
 <br>
