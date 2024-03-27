@@ -12,15 +12,26 @@ I'm Saqib, a passionate Full Stack Web Developer with a focus on creating user-f
 
 ## Skills
 
-#### Frontend: HTML, CSS, Scss, Bootstrap, JavaScript, TypeScript, ReactJs, Vue, Angular, Next.js, Material UI, AntD etc.
-#### Backend: NodeJs, ExpressJs, NestJs
-#### Databases: MongoDB, PostgreSQL, MySql, CouchDB
-#### Frameworks: MERN Stack, MEVN Stack, Microservices Architecture
-#### Other Technologies: AWS, DigitalOcean, Git, Jira, Trello, Bitbucket, Monday, GraphQL, REST API, Websockets, 𝗨𝘀𝗲𝗿-𝗙𝗿𝗶𝗲𝗻𝗱𝗹𝘆 𝗜𝗻𝘁𝗲𝗿𝗳𝗮𝗰𝗲𝘀, 𝗧𝗵𝗶𝗿𝗱-𝗽𝗮𝗿𝘁𝘆 𝗴𝗮𝘁𝗲𝘄𝗮𝘆𝘀, 𝗣𝗮𝘆𝗺𝗲𝗻𝘁 G𝗮𝘁𝗲𝘄𝗮𝘆𝘀 𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻𝘀, 𝗦𝘁𝗿𝗶𝗽𝗲, 𝗧𝘄𝗶𝗹𝗶𝗼, 𝗦𝗲𝗻𝗱𝗴𝗿𝗶𝗱, 𝗘𝘅𝘁𝗲𝗿𝗻𝗮𝗹 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀 𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻, 𝗙𝗮𝘀𝘁 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴, 𝗮𝗻𝗱 𝗴𝗼𝗼𝗱 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵𝗶𝗻𝗴. 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝘃𝗲 𝗔𝗜, 𝗡𝗟𝗣, 𝗠𝘂𝗹𝘁𝗶𝗺𝗼𝗱𝗮𝗹 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁, 𝗚𝗣𝗧-𝟰 𝗮𝗻𝗱 𝗚𝗣𝗧-𝟰 𝗧𝘂𝗿𝗯𝗼, 𝗚𝗣𝗧-𝟯.𝟱 𝗧𝘂𝗿𝗯𝗼, 𝗗𝗔𝗟𝗟·𝗘, 𝗧𝗧𝗦, 𝗪𝗵𝗶𝘀𝗽𝗲𝗿, 𝗘𝗺𝗯𝗲𝗱𝗱𝗶𝗻𝗴𝘀, 𝗠𝗼𝗱𝗲𝗿𝗮𝘁𝗶𝗼𝗻, 𝗚𝗣𝗧 𝗯𝗮𝘀𝗲, 𝗣𝗼𝗶𝗻𝘁-𝗘, 𝗝𝘂𝗸𝗲𝗯𝗼𝘅, 𝗮𝗻𝗱 𝗖𝗟𝗜𝗣
+It looks like you've listed a comprehensive set of skills and technologies in your profile readme file. Here's a formatted version with bold headings:
+
+#### Frontend: 
+HTML, CSS, Scss, Bootstrap, JavaScript, TypeScript, ReactJs, Vue, Angular, Next.js, Material UI, AntD, etc.
+
+#### Backend: 
+NodeJs, ExpressJs, NestJs
+
+#### Databases: 
+MongoDB, PostgreSQL, MySql, CouchDB
+
+#### Frameworks: 
+MERN Stack, MEVN Stack, Microservices Architecture
+
+#### Other Technologies: 
+AWS, DigitalOcean, Git, Jira, Trello, Bitbucket, Monday, GraphQL, REST API, Websockets, User-Friendly Interfaces, Third-party Gateways, Payment Gateways Integration, Stripe, Twilio, Sendgrid, External Libraries Integration, Fast Learning, Good Research, Generative AI, NLP, Multimodal Development, GDPR and Data Protection, SEO, Web Accessibility, Mobile-First Development, Git-based, CI/CD, Testing, Monitoring, Deployment, Web Security, Performance, Jukebox, and CLI.
 
 ## Projects
 
-### AutomateBlast: Social Media Management Platform
+### AutomateBlast: Social Media Management Platform (My Personal Project)
 Developed using Node.js and React
 Features include posting, AI-assisted content creation, analytics, and more
 
