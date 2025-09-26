@@ -12,8 +12,6 @@ I'm Saqib, a passionate Full Stack Web Developer with a focus on creating user-f
 
 ## Skills
 
-It looks like you've listed a comprehensive set of skills and technologies in your profile readme file. Here's a formatted version with bold headings:
-
 #### Frontend: 
 HTML, CSS, Scss, Bootstrap, JavaScript, TypeScript, ReactJs, Vue, Angular, Next.js, Material UI, AntD, etc.
 
