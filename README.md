@@ -1,84 +1,150 @@
-# 👋 Hello, I'm Saqib Javed  
+<div align="center">
 
-🚀 Full Stack Developer | Cloud-Native Engineer | Scalable Systems Enthusiast  
+# Hi, I'm Saqib Javed 👋
 
----
+### Senior Full Stack & Backend Engineer · Node.js · TypeScript · Distributed Systems
 
-## 👨‍💻 About Me  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=640&lines=6%2B+years+shipping+production+systems;Node.js+%7C+NestJS+%7C+React+%7C+Next.js;Microservices+%E2%80%A2+Kafka+%E2%80%A2+BullMQ+%E2%80%A2+Redis;Docker+%E2%80%A2+Kubernetes+%E2%80%A2+CI%2FCD;Top+Rated+on+Upwork" alt="Typing SVG" /></a>
 
-I’m a passionate Full Stack Web Developer with **6+ years of professional experience** in designing, developing, and deploying high-performance applications.  
-My expertise lies in building **scalable, distributed, and fault-tolerant systems** using modern technologies and architectures.  
+<p>
+  <a href="https://www.linkedin.com/in/remotepuzzle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.saqibdev.com"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:rsaqib2034@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://stackoverflow.com/users/16339600/saqib"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
+</p>
 
-I specialize in:  
-- **Microservices & Event-Driven Architectures**  
-- **High-availability & horizontal scaling solutions**  
-- **Cloud-native deployments with Kubernetes & Docker**  
-- **Real-time applications with Kafka, Redis, and WebSockets**  
-- Building **enterprise-level SaaS platforms** with seamless integrations  
+<img src="https://img.shields.io/badge/Experience-6%2B_Years-2F81F7?style=flat-square" />
+<img src="https://img.shields.io/badge/Upwork-Top_Rated-14A800?style=flat-square&logo=upwork&logoColor=white" />
+<img src="https://img.shields.io/badge/Based_in-Islamabad,_PK-6E7681?style=flat-square" />
+<img src="https://img.shields.io/badge/Open_to-Remote_%7C_Hybrid-8957E5?style=flat-square" />
 
----
-
-## 🛠️ Skills  
-
-### **Frontend**  
-- HTML, CSS, SCSS, Bootstrap, TailwindCSS  
-- JavaScript, TypeScript  
-- React.js, Next.js, Vue.js, Angular  
-
-### **Backend**  
-- Node.js, Express.js, Nest.js  
-- REST APIs, GraphQL, WebSockets  
-- Microservices with Kafka, Redis, RabbitMQ  
-
-### **Databases**  
-- MongoDB, PostgreSQL, MySQL  
-- Redis (caching, pub/sub)  
-- CouchDB, ElasticSearch  
-
-### **DevOps & Cloud**  
-- Kubernetes, Docker, Helm  
-- AWS, DigitalOcean  
-- CI/CD (GitHub Actions, GitLab CI, Jenkins)  
-- Monitoring & Logging (Prometheus, Grafana, ELK)  
-
-### **Other Expertise**  
-- Payment Gateway Integration (Stripe, PayPal)  
-- Authentication (JWT, OAuth2, SSO)  
-- API Security, GDPR & Data Protection  
-- Performance Optimization & Web Security  
-- Generative AI & Multimodal Development  
+</div>
 
 ---
 
-## 📂 Featured Projects  
+## 🧭 About Me
 
-### 🔹 **AutomateBlast** – Social Media Management Platform *(Personal Project)*  
-- Tech: Node.js, React, MongoDB, Redis, Kafka  
-- Features: AI-assisted content creation, scheduling, real-time analytics  
+I'm a **Senior Software Engineer with 6+ years of experience** designing, building and running high-performance web platforms end to end — from React/Next.js front ends to event-driven Node.js back ends running on Kubernetes.
 
-### 🔹 **Elite Learner** – Coaching Platform  
-- Tech: MERN Stack  
-- Features: User-coach matching, interactive dashboards, scalable APIs  
+I work best where **scale, reliability and clean architecture** matter: turning heavy, messy workloads into well-structured services that are observable, tested and easy for teams to extend. I've delivered production systems for startups and international clients across SaaS, e-commerce, fintech-style payments, IoT/industrial monitoring and ed-tech — almost all in fully remote teams.
 
----
-
-## 📈 GitHub & StackOverflow Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saqib-github&theme=dark&show_icons=true)  
-![StackOverflow Stats](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/5379437)  
-
----
-
-## 🤝 Let’s Connect  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saqib-javed-316511114)  
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16339600/saqib)  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/saqibjaved0786/)  
-
-📧 Email: **rsaqib2034@gmail.com**  
-🌐 Portfolio: [www.saqibdev.com](https://www.saqibdev.com)  
-📱 Phone: **+92 341 0491218**  
+```ts
+const saqib = {
+  role: "Senior Full Stack / Backend Engineer",
+  experience: "6+ years",
+  focus: ["Distributed systems", "Event-driven architecture", "API design", "Performance"],
+  backend: ["Node.js", "NestJS", "Express", "GraphQL", "REST"],
+  frontend: ["React", "Next.js", "Vue", "TypeScript"],
+  data: ["PostgreSQL", "MongoDB", "Redis"],
+  messaging: ["Kafka", "BullMQ", "Redis Pub/Sub", "WebSockets"],
+  infra: ["Docker", "Kubernetes", "CI/CD", "AWS", "DigitalOcean"],
+  currently: "Building high-throughput, cloud-native microservices",
+};
+```
 
 ---
 
-![](https://komarev.com/ghpvc/?username=saqib-github&color=blue&style=flat)
+## ⚡ What I Bring
+
+| | |
+|---|---|
+| 🏗️ **Architecture** | Microservices and event-driven systems with Kafka, BullMQ & Redis — reliable async job processing, task orchestration and message delivery at high throughput. |
+| 🚀 **Performance** | Profiling and query optimisation that improved application performance by **40%**; caching strategies and horizontal scaling for heavy workloads. |
+| ☁️ **Cloud-Native Delivery** | Containerised services on Docker & Kubernetes with automated scaling, health checks, observability and **zero-downtime releases**. |
+| 🔐 **Security & Payments** | JWT / OAuth 2.0 auth, secure API design and **10+ payment & third-party integrations** (Stripe, PayPal) with PCI-compliant workflows. |
+| ⚛️ **Full Stack Product Work** | React / Next.js / Vue interfaces backed by typed Node.js APIs — real-time dashboards, admin panels and customer-facing apps. |
+| 🧑‍🏫 **Leadership** | Mentoring developers, code reviews, and setting team standards for coding, testing and documentation. |
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Runtimes**
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,html,css" />
+</p>
+
+**Backend & APIs**
+<p>
+  <img src="https://skillicons.dev/icons?i=nestjs,express,graphql,kafka,rabbitmq" />
+</p>
+
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,materialui,sass" />
+</p>
+
+**Databases & Caching**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,elasticsearch" />
+</p>
+
+**DevOps & Cloud**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,gitlab,jenkins,prometheus,grafana,linux" />
+</p>
+
+**Testing & Practices:** Jest · Mocha · Unit & Integration Testing · API Testing · Code Reviews · Agile / Scrum
+
+**Also:** WebSockets / Socket.io · BullMQ · Helm · Stripe & PayPal · JWT / OAuth 2.0 / SSO · ELK · Generative AI integrations
+
+---
+
+## 💼 Experience Highlights
+
+**Senior MERN Stack Developer** — *Ropstam Solutions Inc.* · 2022 – 2024
+- Built scalable Node.js / Express APIs and React front ends; optimised MongoDB queries to lift overall app performance by **40%**.
+- Integrated **10+ payment gateways & third-party APIs** (Stripe, PayPal) with secure, PCI-compliant transaction flows.
+- Led real-time notification systems with WebSockets and Redis pub/sub; mentored junior developers and set backend best practices.
+
+**Freelance Full Stack / Backend Engineer** — *Upwork (Top Rated) & Fiverr* · 2023 – Present
+- Earned **Top Rated** status through consistent, high-quality delivery on long-term engagements.
+- Ship React / Next.js apps and NestJS / Express APIs for international clients — auth, webhooks, payments and data-sync workflows.
+- Build PostgreSQL / MongoDB services with Redis caching and queue processing for performance-critical features.
+
+**MERN / MEVN Stack Developer** — *Iyrix Tech* · 2021 – 2022
+- Built real-time **IoT dashboards** (Vue.js + Node.js) for industrial monitoring of sensor data and machine health.
+- Delivered REST APIs over MongoDB and PostgreSQL for high-availability industrial applications.
+
+🎓 **B.S. Software Engineering** — Riphah International University (2016 – 2020)
+
+---
+
+## 📂 Selected Work
+
+| Project | What it is | Stack |
+|---|---|---|
+| 🚀 **[AutomateBlast](https://www.automateblast.com)** *(personal product)* | Social media management SaaS — multi-platform scheduling, AI-assisted post generation, influencer marketplace, analytics and subscriptions. | Node.js · React · MongoDB · Redis · Kafka |
+| 🏭 **Smart Factory Suite** | Maintenance management for heavy machinery — live machine status over sockets, unlimited-depth parent/child machine trees, cost analytics and reports. | Node.js · React · TypeScript · Socket.io |
+| 📦 **IoT Kanban Packing System** | Factory packing automation driven by IoT devices, with multi-shift, holiday and break scheduling logic. | Node.js · React · MongoDB · CouchDB · Socket.io |
+| 🛒 **TCGSync** | E-commerce operations platform syncing orders, inventory and listings across Shopify, eBay and more. | Node.js · React · Third-party APIs |
+| 🎥 **Vyrill** | AI-powered SaaS for discovering and licensing brand-advocate video content; rebuilt the dashboard UI in Material UI. | React · Material UI |
+| 🎮 **Gamefix** | Competitive gaming platform — player challenges, team tournaments, prize pools, referrals and crypto payments. | Node.js · React |
+| 🖼️ **Stickable Shop** | E-commerce store with photo upload, in-browser editing, framing, payments and a full admin dashboard. | React · Node.js · DigitalOcean |
+| 🏨 **Property Management Suite** | Check-in/out, access control, incidents, meter readings, maintenance and dynamic PDF billing/reporting. | React · Node.js |
+| 🕷️ **Trail-Wolf** | Affiliate platform that scrapes 5 e-commerce sites and uses AI matching to merge similar products. | Node.js · Scraping · AI |
+
+> More case studies are available on request or at **[saqibdev.com](https://www.saqibdev.com)**.
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saqib-github&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqib-github&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=saqib-github&theme=github-dark-blue&hide_border=true" />
+</div>
+
+---
+
+## 🤝 Let's Work Together
+
+I'm open to **senior backend / full stack roles** and select consulting work — especially around scaling Node.js systems, event-driven architecture and cloud-native delivery.
+
+📧 **rsaqib2034@gmail.com** · 💼 [linkedin.com/in/remotepuzzle](https://www.linkedin.com/in/remotepuzzle) · 🌐 [saqibdev.com](https://www.saqibdev.com)
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=saqib-github&color=2F81F7&style=flat-square&label=Profile+Views" />
+</div>
