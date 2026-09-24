@@ -111,16 +111,17 @@ const saqib = {
 
 ## 📂 Selected Work
 
-| Project | What it is | Stack |
+*Built for employers and clients — product and client names are withheld out of respect for confidentiality.*
+
+| Domain | What I built | Stack |
 |---|---|---|
-| 🏭 **Smart Factory Suite** | Maintenance management for heavy machinery — live machine status over sockets, unlimited-depth parent/child machine trees, cost analytics and reports. | Node.js · React · TypeScript · Socket.io |
-| 📦 **IoT Kanban Packing System** | Factory packing automation driven by IoT devices, with multi-shift, holiday and break scheduling logic. | Node.js · React · MongoDB · CouchDB · Socket.io |
-| 🛒 **TCGSync** | E-commerce operations platform syncing orders, inventory and listings across Shopify, eBay and more. | Node.js · React · Third-party APIs |
-| 🎥 **Vyrill** | AI-powered SaaS for discovering and licensing brand-advocate video content; rebuilt the dashboard UI in Material UI. | React · Material UI |
-| 🎮 **Gamefix** | Competitive gaming platform — player challenges, team tournaments, prize pools, referrals and crypto payments. | Node.js · React |
-| 🖼️ **Stickable Shop** | E-commerce store with photo upload, in-browser editing, framing, payments and a full admin dashboard. | React · Node.js · DigitalOcean |
-| 🏨 **Property Management Suite** | Check-in/out, access control, incidents, meter readings, maintenance and dynamic PDF billing/reporting. | React · Node.js |
-| 🕷️ **Trail-Wolf** | Affiliate platform that scrapes 5 e-commerce sites and uses AI matching to merge similar products. | Node.js · Scraping · AI |
+| 🏭 **Industrial IoT & Maintenance** | Real-time machine monitoring and maintenance management — live status over WebSockets, unlimited-depth machine hierarchies, cost analytics and reporting — plus IoT-driven packing automation with shift, holiday and break scheduling. | Node.js · React · TypeScript · MongoDB · CouchDB · Socket.io |
+| 🛒 **Multi-Channel E-commerce** | Order, inventory and listing sync across marketplaces like Shopify and eBay; a custom storefront with in-browser photo editing, payments and a full admin dashboard. | Node.js · React · Third-party APIs · DigitalOcean |
+| 📈 **Marketing SaaS** | Rebuilt the analytics dashboard of an AI-driven video marketing platform on a new Material UI design system. | React · Material UI |
+| 🎮 **Gaming Platform** | Player challenges, team tournaments, prize pools, referral rewards and crypto payments. | Node.js · React |
+| 🏨 **Property & Hospitality Ops** | Check-in/out, access control, incident tracking, meter readings, maintenance scheduling and dynamic PDF billing & reports. | React · Node.js |
+| 🏫 **Education Management** | School platform covering students, staff, attendance, exams, fees and parent–teacher communication. | Node.js · React |
+| 🕷️ **Data Aggregation & AI** | Scraping pipelines across multiple e-commerce sites with AI-based product matching for an affiliate platform. | Node.js · Scraping · AI |
 
 > Detailed case studies are available on request.
 
