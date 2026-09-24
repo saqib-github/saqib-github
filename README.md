@@ -8,7 +8,6 @@
 
 <p>
   <a href="https://www.linkedin.com/in/remotepuzzle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.saqibdev.com"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:rsaqib2034@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://stackoverflow.com/users/16339600/saqib"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
 </p>
@@ -114,7 +113,6 @@ const saqib = {
 
 | Project | What it is | Stack |
 |---|---|---|
-| 🚀 **[AutomateBlast](https://www.automateblast.com)** *(personal product)* | Social media management SaaS — multi-platform scheduling, AI-assisted post generation, influencer marketplace, analytics and subscriptions. | Node.js · React · MongoDB · Redis · Kafka |
 | 🏭 **Smart Factory Suite** | Maintenance management for heavy machinery — live machine status over sockets, unlimited-depth parent/child machine trees, cost analytics and reports. | Node.js · React · TypeScript · Socket.io |
 | 📦 **IoT Kanban Packing System** | Factory packing automation driven by IoT devices, with multi-shift, holiday and break scheduling logic. | Node.js · React · MongoDB · CouchDB · Socket.io |
 | 🛒 **TCGSync** | E-commerce operations platform syncing orders, inventory and listings across Shopify, eBay and more. | Node.js · React · Third-party APIs |
@@ -124,7 +122,7 @@ const saqib = {
 | 🏨 **Property Management Suite** | Check-in/out, access control, incidents, meter readings, maintenance and dynamic PDF billing/reporting. | React · Node.js |
 | 🕷️ **Trail-Wolf** | Affiliate platform that scrapes 5 e-commerce sites and uses AI matching to merge similar products. | Node.js · Scraping · AI |
 
-> More case studies are available on request or at **[saqibdev.com](https://www.saqibdev.com)**.
+> Detailed case studies are available on request.
 
 ---
 
@@ -140,7 +138,7 @@ const saqib = {
 
 I'm open to **senior backend / full stack roles** and select consulting work — especially around scaling Node.js systems, event-driven architecture and cloud-native delivery.
 
-📧 **rsaqib2034@gmail.com** · 💼 [linkedin.com/in/remotepuzzle](https://www.linkedin.com/in/remotepuzzle) · 🌐 [saqibdev.com](https://www.saqibdev.com)
+📧 **rsaqib2034@gmail.com** · 💼 [linkedin.com/in/remotepuzzle](https://www.linkedin.com/in/remotepuzzle)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=saqib-github&color=2F81F7&style=flat-square&label=Profile+Views" />
